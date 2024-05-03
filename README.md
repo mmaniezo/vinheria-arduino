@@ -1,4 +1,4 @@
-#Projeto de Controle de Ambiente para Armazenamento de Vinhos
+# Projeto de Controle de Ambiente para Armazenamento de Vinhos
 Este projeto utiliza um Arduino para monitorar e controlar as condições ambientais ideais para o armazenamento de vinhos. O Arduino é responsável por monitorar a temperatura, umidade e luminosidade, garantindo que as condições estejam dentro dos limites ideais para preservar a qualidade dos vinhos.
 
 Componentes Utilizados
